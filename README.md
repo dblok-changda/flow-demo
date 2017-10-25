@@ -1,6 +1,7 @@
 # README
 
 This is revision 3 from develop
+# This is revision 2 from branch S4C-100
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
